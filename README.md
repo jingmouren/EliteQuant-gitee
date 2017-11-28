@@ -52,7 +52,7 @@
 
 * [掘金量化MyQuant](http://www.myquant.cn/) - 多语言量化交易系统；[Github主页](https://github.com/myquant/)
 
-* [Hikyuu Quant Framework](http://hikyuu.org/) -- 基于C++/Python的开源量化交易策略分析研究及回测框架； 在[码云](https://gitee.com/fasiondog/hikyuu)和[Github](https://github.com/fasiondog/hikyuu)上同时开源
+* [Hikyuu](https://gitee.com/fasiondog/hikyuu) - 基于C++/Python的开源量化交易研究框架
 
 * [MultiCharts 中国版 - 程序化交易软件](https://www.multicharts.cn/)
 
