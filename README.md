@@ -52,6 +52,8 @@
 
 * [掘金量化MyQuant](http://www.myquant.cn/) - 多语言量化交易系统；[Github主页](https://github.com/myquant/)
 
+* [Hikyuu - Quant Framework]（http://hikyuu.org/） -- 基于C++/Python的开源量化交易策略分析研究及回测框架； 在[码云](https://gitee.com/fasiondog/hikyuu)和[Github](https://github.com/fasiondog/hikyuu)上同时开源
+
 * [MultiCharts 中国版 - 程序化交易软件](https://www.multicharts.cn/)
 
 * [量化交易先锋(TradePioneers(Matlab)](http://bbs.pinggu.org/thread-4501068-1-1.html) - 连接以失效
@@ -64,11 +66,9 @@
 
 * [QuantDigger](https://github.com/QuantFans/quantdigger)  - Python量化交易平台
 
-* [FutureTrade](https://github.com/athmoon/FutureTrade) -- ctp接口
+* [CTP-TradeServer](https://github.com/dxtkdxtk/CTP-TradeServer) -- CTP多账户多策略交易程序
 
-* [CTP-TradeServer](https://github.com/dxtkdxtk/CTP-TradeServer) -- ctp接口
-
-* [CTP-Test](https://github.com/tashaxing/CTPtest) -- [踏沙行的博客](http://blog.csdn.net/u012234115/article/details/70195889)
+* [CTP-Test](https://github.com/tashaxing/CTPtest) -- 一个简单的CTP起手项目，和[他的博客](http://blog.csdn.net/u012234115/article/details/70195889)
 
 ## 量化模型
 
