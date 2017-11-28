@@ -64,6 +64,8 @@
 
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - Python量化金融框架
 
+* [AlphaQuant](https://github.com/928675268/alphaquant)  - 股票实盘交易SDK，支持华泰，广发
+
 * [QuantDigger](https://github.com/QuantFans/quantdigger)  - Python量化交易平台
 
 * [CTP-TradeServer](https://github.com/dxtkdxtk/CTP-TradeServer) -- CTP多账户多策略交易程序
