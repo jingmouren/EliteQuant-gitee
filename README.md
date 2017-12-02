@@ -56,7 +56,7 @@
 
 * [MultiCharts 中国版 - 程序化交易软件](https://www.multicharts.cn/)
 
-* [量化交易先锋(TradePioneers(Matlab)](http://bbs.pinggu.org/thread-4501068-1-1.html) - 连接以失效
+* [功夫](https://github.com/taurusai/kungfu) - 高频交易执行系统， [创始人的知乎文章](https://zhuanlan.zhihu.com/silicontrader)和[公司主页](http://taurus.ai/)
 
 * [EasyQuant 系列](https://github.com/shidenggui) - Python 系统， 包括[easyquant](https://github.com/shidenggui/easyquant), [easytrader](https://github.com/shidenggui/easytrader), [easyquotation](https://github.com/shidenggui/easyquotation), 和 [easyhistory](https://github.com/shidenggui/easyhistory)
 
