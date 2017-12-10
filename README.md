@@ -24,6 +24,10 @@
 
 * [BigQuant](https://bigquant.com/) - Python人工智能和机器学习的在线量化交易平台
 
+* [MindGo](http://quant.10jqka.com.cn/) - 投资者的工业级策略研究平台
+
+* [掘金量化MyQuant](http://www.myquant.cn/) - 多语言量化交易系统；[Github主页](https://github.com/myquant/)
+
 * [镭矿raquant](http://www.raquant.com/) - 一个基于Python的在线量化交易平台
 
 * [果仁网](https://quant.jd.com/) - 回测量化平台
@@ -42,6 +46,8 @@
 
 * [vnpy](http://www.vnpy.org/) - 一个受欢迎的Python开源交易平台；[社区论坛](http://www.vnpie.com)和[Github代码](https://github.com/vnpy/vnpy)
 
+* [quantos](https://www.quantos.org/) - vnpy + tushare, [github代码](https://github.com/quantOS-org)
+
 * [万得大奖章](http://www.dajiangzhang.com/) - [Wind万得](http://www.wind.com.cn/)旗下交易平台
 
 * [文化财经--云量化](https://mq.wenhua.com.cn/) - 文远宽语言采用类C语言的语法
@@ -49,8 +55,6 @@
 * [金之塔](https://www.weistock.com/) - 线下交易软件
 
 * [Tradeblazer(TB) - 交易开拓者](http://www.tradeblazer.net/) - 期货程序化交易软件平台
-
-* [掘金量化MyQuant](http://www.myquant.cn/) - 多语言量化交易系统；[Github主页](https://github.com/myquant/)
 
 * [Hikyuu](https://gitee.com/fasiondog/hikyuu) - 基于C++/Python的开源量化交易研究框架
 
@@ -64,9 +68,13 @@
 
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - Python量化金融框架
 
+* [squant](https://github.com/eryk/squant) - scala语言量化开发工具箱
+
 * [AlphaQuant](https://github.com/928675268/alphaquant)  - 股票实盘交易SDK，支持华泰，广发
 
 * [QuantDigger](https://github.com/QuantFans/quantdigger)  - Python量化交易平台
+
+* [Abu](https://github.com/bbfamily/abu)  - 阿布量化交易系统 Python
 
 * [CTP-TradeServer](https://github.com/dxtkdxtk/CTP-TradeServer) -- CTP多账户多策略交易程序
 
@@ -87,6 +95,8 @@
 
 ## 数据源
 * [TuShare网站](http://tushare.org/) 和 [源代码](https://github.com/waditu/tushare)  - 中文财经数据接口包
+
+* [pytdx](https://rainx.gitbooks.io/pytdx/content/) - 纯Python语言开发的类似TradeX的行情数据接口
 
 * [Historical Data Sources](http://quantpedia.com/Links/HistoricalData) - 一个数据源索引
 
