@@ -36,6 +36,8 @@
 
 * [诸葛量化](https://www.gpxtrade.com/) - 量化交易平台
 
+* [云宽客](http://www.yunkuanke.com) - QuantDesk平台
+
 * [BotVS](https://www.botvs.com/) -- 首家支持数字货币的量化平台；[Github主页](https://github.com/botvs)
 
 * [宽狗量化](https://www.gpxtrade.com/) - 量化回测平台
@@ -60,13 +62,21 @@
 
 * [MultiCharts 中国版 - 程序化交易软件](https://www.multicharts.cn/)
 
+* [海风开源](https://github.com/haifengat) -- 包括 c++/c#/python 等
+
 * [功夫](https://github.com/taurusai/kungfu) - 高频交易执行系统， [创始人的知乎文章](https://zhuanlan.zhihu.com/silicontrader)和[公司主页](http://taurus.ai/)
 
 * [EasyQuant 系列](https://github.com/shidenggui) - Python 系统， 包括[easyquant](https://github.com/shidenggui/easyquant), [easytrader](https://github.com/shidenggui/easytrader), [easyquotation](https://github.com/shidenggui/easyquotation), 和 [easyhistory](https://github.com/shidenggui/easyhistory)
 
 * [实盘易](http://www.iguuu.com/e)（[SDK](https://github.com/sinall/ShiPanE-Python-SDK)）  - 管理通达信等交易终端，提供基于 HTTP 协议的 RESTFul API；各大在线量化交易平台实盘解决方案
 
+* [OC开放量化平台](https://gitee.com/openctp/OPENCTP) - 使用c++,python等语言；支持A股，国内期货CTP; [跨平台ctp客户端](https://gitee.com/openctp/open_ctp_x)
+
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - Python量化金融框架
+
+* [pyktrader2](https://github.com/harveywwu/pyktrader2) - 基于ctp接口，使用tkinter作为GUI的python交易平台
+
+* [Python Stock](https://github.com/pythonstock/stock) - Python股票系统, mysql, tornado
 
 * [squant](https://github.com/eryk/squant) - scala语言量化开发工具箱
 
@@ -76,7 +86,11 @@
 
 * [Abu](https://github.com/bbfamily/abu)  - 阿布量化交易系统 Python
 
+* [alphaquant](https://github.com/928675268/alphaquant) --  股票实盘交易SDK，支持华泰，广发等70多个券商
+
 * [CTP-TradeServer](https://github.com/dxtkdxtk/CTP-TradeServer) -- CTP多账户多策略交易程序
+
+* [LazzyQuant](https://github.com/zc8424/LazzyQuant) -- C++期货/期权量化交易系统
 
 * [CTP-Test](https://github.com/tashaxing/CTPtest) -- 一个简单的CTP起手项目，和[他的博客](http://blog.csdn.net/u012234115/article/details/70195889)
 
@@ -122,6 +136,8 @@
 
 * [数库金融数据和深度分析API服务](http://developer.chinascope.com/) - 收费
 
+* [微盛投资](http://www.wstock.net/) -- 沪深美港股数据
+
 * [R金融数据抓取](https://gist.github.com/yanping) -- 期货，基金，网易财经等
 
 * [量化投资数据篇](https://xueqiu.com/8506830704/72813000) - 博文, 及[2](https://xueqiu.com/8506830704/72979651) 和 [3](https://xueqiu.com/8506830704/73125523)
@@ -145,6 +161,8 @@
 * [量化易](http://www.19lh.com/) - 量化投资论坛
 
 * [况客](https://qutke.com/) - 投资研究社区
+
+* [量化交易](http://www.iquant.club/) - 博客
 
 * [极宽网](http://www.topquant.vip/) - Python量化
 
