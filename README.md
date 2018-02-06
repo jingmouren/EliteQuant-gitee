@@ -24,13 +24,15 @@
 
 * [BigQuant](https://bigquant.com/) - Python人工智能和机器学习的在线量化交易平台
 
-* [MindGo](http://quant.10jqka.com.cn/) - 投资者的工业级策略研究平台
+* [MindGo](http://quant.10jqka.com.cn/) - 同花顺的策略研究平台
 
 * [掘金量化MyQuant](http://www.myquant.cn/) - 多语言量化交易系统；[Github主页](https://github.com/myquant/)
 
 * [镭矿raquant](http://www.raquant.com/) - 一个基于Python的在线量化交易平台
 
 * [果仁网](https://quant.jd.com/) - 回测量化平台
+
+* [百度量化因子平台](https://quant.baidu.com) - 百度量化因子
 
 * [Factors](http://factors.chinascope.com/) - 数库多因子量化平台
 
@@ -80,11 +82,11 @@
 
 * [squant](https://github.com/eryk/squant) - scala语言量化开发工具箱
 
-* [AlphaQuant](https://github.com/928675268/alphaquant)  - 股票实盘交易SDK，支持华泰，广发
-
 * [QuantDigger](https://github.com/QuantFans/quantdigger)  - Python量化交易平台
 
 * [Abu](https://github.com/bbfamily/abu)  - 阿布量化交易系统 Python
+
+* [potato](https://github.com/Yam-cn/potato)  - pythonic algorithmic trading framewor based on [pyalgotrade](https://github.com/gbeced/pyalgotrade)
 
 * [alphaquant](https://github.com/928675268/alphaquant) --  股票实盘交易SDK，支持华泰，广发等70多个券商
 
