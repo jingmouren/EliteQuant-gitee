@@ -8,6 +8,7 @@
 * [量化模型](#量化模型)
 * [交易API](#交易api)
 * [数据源](#数据源)
+* [官方](#官方)
 * [网站论坛博客](#网站论坛博客)
 * [论文书籍](#论文书籍)
 
@@ -40,13 +41,14 @@
 
 * [云宽客](http://www.yunkuanke.com) - QuantDesk平台
 
-* [BotVS](https://www.botvs.com/) -- 首家支持数字货币的量化平台；[Github主页](https://github.com/botvs)
+* [BotVS](https://www.botvs.com/) -- 首家支持数字货币的量化平台；[Github主页](https://github.com/botvs), [量化策略](https://github.com/botvs/strategies)
 
 * [宽狗量化](https://www.gpxtrade.com/) - 量化回测平台
 
 * [点宽网](https://www.digquant.com.cn/) -- 基于MATLAB的量化交易平台; 策略研究软件[Auto-Trader](http://www.atrader.com.cn/)
 
 ## 交易系统
+* [zipline-chinese](https://github.com/zhanghan1990/zipline-chinese) - 很多在线平台如优矿，聚宽等都是基于zipline，本项目改进zipline，使得zipline支持A股测试
 
 * [vnpy](http://www.vnpy.org/) - 一个受欢迎的Python开源交易平台；[社区论坛](http://www.vnpie.com)和[Github代码](https://github.com/vnpy/vnpy)
 
@@ -76,9 +78,13 @@
 
 * [QUANTAXIS](https://github.com/yutiansut/QUANTAXIS) - Python量化金融框架
 
+* [pyktrader](https://github.com/harveywwu/pyktrader) - python交易和回测平台
+
 * [pyktrader2](https://github.com/harveywwu/pyktrader2) - 基于ctp接口，使用tkinter作为GUI的python交易平台
 
 * [Python Stock](https://github.com/pythonstock/stock) - Python股票系统, mysql, tornado
+
+* [stock](https://github.com/tangguangyao/stock)  - nodejs+angularjs+mongodb+redis 股票系统
 
 * [squant](https://github.com/eryk/squant) - scala语言量化开发工具箱
 
@@ -96,7 +102,19 @@
 
 * [CTP-Test](https://github.com/tashaxing/CTPtest) -- 一个简单的CTP起手项目，和[他的博客](http://blog.csdn.net/u012234115/article/details/70195889)
 
+* [WeQuant微宽网](https://github.com/wequant-org/liveStrategyEngine)  - 比特币量化交易/优质策略源码/精准回测/免费实盘
+
+* [uiKLine](https://github.com/moonnejs/uiKLine) -- 用pyqtgraph做的K线工具
+
+
 ## 量化模型
+* [star](https://github.com/hustcer/star) -- A 股辅助分析工具
+
+* [stok](https://github.com/Rockyzsu/stock) -- 30天掌握量化交易
+
+* [Machine-learning-on-Stocks-Selection](https://github.com/pyhong/Machine-learning-on-Stocks-Selection) -- 机器学习选股模型
+
+
 
 ## 交易API
 
@@ -118,7 +136,7 @@
 
 * [Wind万得资讯-经济数据库](http://www.wind.com.cn/) - 收费
 
-* [国泰安数据服务中心](http://dx.gtarsc.com/) - 收费，以及旗下[量宽网](http://www.gtaquant.com/) 
+* [国泰安数据服务中心](http://www.gtarsc.com/) - 收费，以及旗下[量宽网](http://www.gtaquant.com/) 
 
 * [通联数据](https://www.datayes.com/) - 数据和资管平台
 
@@ -143,6 +161,26 @@
 * [R金融数据抓取](https://gist.github.com/yanping) -- 期货，基金，网易财经等
 
 * [量化投资数据篇](https://xueqiu.com/8506830704/72813000) - 博文, 及[2](https://xueqiu.com/8506830704/72979651) 和 [3](https://xueqiu.com/8506830704/73125523)
+
+## 官方
+* [中国证券监督管理委员会](http://www.csrc.gov.cn)
+
+* [中国证券业协会](http://www.sac.net.cn/)
+
+* [中国证券投资基金业协会](http://www.amac.org.cn/)
+
+* [上海证券交易所](http://www.sse.com.cn/)
+
+* [深圳证券交易所](http://www.szse.cn/)
+
+* [上海期货交易所](http://www.shfe.com.cn/)
+
+* [中国金融期货交易所](http://www.cffex.com.cn/)
+
+* [郑州商品交易所](http://www.czce.com.cn/)
+
+* [大连商品交易所](http://www.dce.com.cn/)
+
 
 ## 网站论坛博客
 
